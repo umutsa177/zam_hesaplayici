@@ -1,4 +1,4 @@
-Zam hesaplamaya yarayan basit bir Flutter/Dart uygulaması
+Zam hesaplamaya yarayan bir Flutter/Dart uygulaması
 --------------------------------------------------
 ![asd](https://user-images.githubusercontent.com/76686224/197858301-611f12ca-ebaa-469f-8873-17933d1879ac.png)
 --------------------------------------------------
