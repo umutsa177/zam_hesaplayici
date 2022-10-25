@@ -1,16 +1,3 @@
-# zam_calculate
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Zam hesaplamaya yarayan basit bir Flutter/Dart uygulaması
+![asd](https://user-images.githubusercontent.com/76686224/197858301-611f12ca-ebaa-469f-8873-17933d1879ac.png)
+![asd2](https://user-images.githubusercontent.com/76686224/197858381-454a8532-3a17-46a1-9bbb-75517f9a136e.png)
